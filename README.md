@@ -1,1 +1,1 @@
-# Sobel-Edge-Detection-MPI-OpenMP-
+# Sobel-Edge-Detection-MPI-OpenMP
