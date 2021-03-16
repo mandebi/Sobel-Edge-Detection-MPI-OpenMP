@@ -1,1 +1,1 @@
-Second implementation of the Sobel Edge detection that divides the computation between workers using MPI, and parallelizes each worker with OpenMP.
+Second implementation of the Sobel Edge detection that divides the computation between workers using MPI, and parallelizes each worker with OpenMP. The bash script files were used to automate the compilation and submission of the application into the HiPerGator platform (https://www.rc.ufl.edu/services/hipergator/) that used SLURM (https://slurm.schedmd.com/overview.html).
