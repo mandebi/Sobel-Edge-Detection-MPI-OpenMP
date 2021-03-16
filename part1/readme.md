@@ -1,0 +1,1 @@
+Simple implementation of the Sobel Filter in C. It takes as input a 3000x3000 image and returns another image with edges detected. We use Matlab to convert to input image into a matrix of positive integers. Next, we also use Matlab to convert to resulting matrix of positive integers into a PNG image.
